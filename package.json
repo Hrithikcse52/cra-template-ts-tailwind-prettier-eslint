@@ -1,6 +1,6 @@
 {
   "name": "cra-template-ts-tailwind-prettier-eslint",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This package contains cra-app with tailwind, prettier, eslint, ts, pre initilized",
   "main": "template.json",
   "repository": {
