@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-ts-tailwind-prettier-eslint",
+  "version": "1.0.0",
+  "description": "This package contains cra-app with tailwind, prettier, eslint, ts, pre initilized",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "prettier",
+    "eslint",
+    "typescript"  
+  ],
+  "author": "Hrithik Prasad",
+  "license": "ISC"
+}
