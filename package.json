@@ -1,10 +1,11 @@
 {
   "name": "cra-template-ts-tailwind-prettier-eslint",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package contains cra-app with tailwind, prettier, eslint, ts, pre initilized",
   "main": "template.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hrithikcse52/cra-template-ts-tailwind-prettier-eslint"
   },
   "files": [
     "template",
@@ -16,7 +17,7 @@
     "template",
     "prettier",
     "eslint",
-    "typescript"  
+    "typescript"
   ],
   "author": "Hrithik Prasad",
   "license": "ISC"
