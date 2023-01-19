@@ -8,12 +8,9 @@
     "url": "https://github.com/Hrithikcse52/cra-template-ts-tailwind-prettier-eslint"
   },
   "scripts": {
-    "release": "standard-version"
+    "test": ""
   },
-  "files": [
-    "template",
-    "template.json"
-  ],
+  "files": ["template", "template.json"],
   "keywords": [
     "react",
     "create-react-app",
@@ -23,8 +20,5 @@
     "typescript"
   ],
   "author": "Hrithik Prasad",
-  "license": "ISC",
-  "devDependencies": {
-    "standard-version": "^9.5.0"
-  }
+  "license": "ISC"
 }
