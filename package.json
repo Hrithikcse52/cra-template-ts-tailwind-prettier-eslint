@@ -8,7 +8,7 @@
     "url": "https://github.com/Hrithikcse52/cra-template-ts-tailwind-prettier-eslint"
   },
   "scripts": {
-    "release": "standard-version && npm publish"
+    "release": "standard-version"
   },
   "files": [
     "template",
